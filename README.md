@@ -1,4 +1,7 @@
 Photogrammetry pipeline
+
+![image](https://user-images.githubusercontent.com/85412627/231765356-aa832175-584f-43b6-80c2-fb6d6942b7a2.png)
+
 <br>
 / Workflow / 
 <br>
