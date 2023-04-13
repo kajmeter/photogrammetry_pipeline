@@ -5,4 +5,5 @@ Photogrammetry pipeline
 pml_reducing - It reduces rasters in pml export file for single core texturing algorithms(reduces texturing time from few hours to few minutes)
 
 //todo
-repair manifold edges
+<br>
+-repair manifold edges
